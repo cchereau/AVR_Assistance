@@ -4,13 +4,13 @@
  * and open the template in the editor.
 https://rom.developpez.com/java-listeners/
 */
-package com.mycompany.av2r_assistance;
+package com.avr;
 
-import com.mycompany.av2r_assistance.commande.Commande;
+import com.avr.commande.Commande;
 import javax.swing.JFrame;
-import com.mycompany.av2r_assistance.commande.CommandeObserver;
-import com.mycompany.av2r_assistance.Assistance.Assistance;
-import com.mycompany.av2r_assistance.voiture.Voiture;
+import com.avr.commande.CommandeObserver;
+import com.avr.Assistance.Assistance;
+import com.avr.voiture.Voiture;
 /**
  *
  * @author 362294

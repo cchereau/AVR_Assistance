@@ -3,23 +3,23 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package com.mycompany.av2r_assistance.voiture;
+package com.avr.Assistance;
 
 /**
  *
  * @author 362294
  */
-public interface VoitureRegister {
+public interface AssistanceRegister {
+
     //methods to register and unregister observers
+    public void register(AssistanceObserver obj);
 
-    public void register(VoitureObserver obj);
-
-    public void unregister(VoitureObserver obj);
+    public void unregister(AssistanceObserver obj);
 
     //method to notify observers of change
     public void notifyObservers();
 
     //method to get updates from Action
-    public Object getUpdate(VoitureObserver obj);
+    public Object getUpdate(AssistanceObserver obj);
 
 }

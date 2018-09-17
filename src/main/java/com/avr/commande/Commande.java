@@ -7,9 +7,9 @@
 // Le 16/08/2018 : Inspiration de la source https://www.journaldev.com/1739/observer-design-pattern-in-java
 // pour utiliser la gestion des event et des listnets 
 /** **************************************************************************** */
-package com.mycompany.av2r_assistance.commande;
+package com.avr.commande;
 
-import com.mycompany.av2r_assistance.Constante;
+import com.avr.Constante;
 import java.awt.event.KeyEvent;
 import java.awt.event.KeyListener;
 import java.util.ArrayList;

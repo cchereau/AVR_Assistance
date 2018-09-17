@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package com.mycompany.av2r_assistance.voiture.composants.basic;
+package com.avr.voiture.composants.basic;
 
 import static java.lang.Math.PI;
 

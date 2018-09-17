@@ -3,8 +3,8 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package com.mycompany.av2r_assistance.voiture.composants;
-import com.mycompany.av2r_assistance.Constante;
+package com.avr.voiture.composants;
+import com.avr.Constante;
 /**
  *
  * @author 362294

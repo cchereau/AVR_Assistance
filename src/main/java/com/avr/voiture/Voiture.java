@@ -12,16 +12,16 @@
 /** ******************************************************************************************** */
 // Exemple : https://rom.developpez.com/java-listeners/
 /** ******************************************************************************************** */
-package com.mycompany.av2r_assistance.voiture;
+package com.avr.voiture;
 
-import com.mycompany.av2r_assistance.voiture.composants.RoueDirectrice;
-import com.mycompany.av2r_assistance.voiture.composants.Composants;
-import com.mycompany.av2r_assistance.voiture.composants.Roue;
-import com.mycompany.av2r_assistance.voiture.composants.Thermometre;
-import com.mycompany.av2r_assistance.voiture.composants.Direction;
-import com.mycompany.av2r_assistance.voiture.composants.Accelerateur;
-import com.mycompany.av2r_assistance.Constante;
-import com.mycompany.av2r_assistance.Constante.CTE_ETAT_VOITURE;
+import com.avr.voiture.composants.RoueDirectrice;
+import com.avr.voiture.composants.Composants;
+import com.avr.voiture.composants.Roue;
+import com.avr.voiture.composants.Thermometre;
+import com.avr.voiture.composants.Direction;
+import com.avr.voiture.composants.Accelerateur;
+import com.avr.Constante;
+import com.avr.Constante.CTE_ETAT_VOITURE;
 import java.util.ArrayList;
 import java.util.EnumMap;
 import java.util.List;

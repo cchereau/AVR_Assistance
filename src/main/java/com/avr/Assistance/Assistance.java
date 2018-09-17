@@ -3,14 +3,14 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package com.mycompany.av2r_assistance.Assistance;
+package com.avr.Assistance;
 
-import com.mycompany.av2r_assistance.Constante;
-import com.mycompany.av2r_assistance.voiture.Voiture;
-import com.mycompany.av2r_assistance.commande.CommandeObserver;
-import com.mycompany.av2r_assistance.commande.CommandeRegister;
-import com.mycompany.av2r_assistance.voiture.VoitureRegister;
-import com.mycompany.av2r_assistance.voiture.VoitureObserver;
+import com.avr.Constante;
+import com.avr.voiture.Voiture;
+import com.avr.commande.CommandeObserver;
+import com.avr.commande.CommandeRegister;
+import com.avr.voiture.VoitureRegister;
+import com.avr.voiture.VoitureObserver;
 import java.util.ArrayList;
 import java.util.List;
 

@@ -1,9 +1,9 @@
 /* 
 
  */
-package com.mycompany.av2r_assistance.voiture.composants;
+package com.avr.voiture.composants;
 
-import com.mycompany.av2r_assistance.Constante;
+import com.avr.Constante;
 
 /**
  *
